@@ -10,4 +10,7 @@ May thank them for thier contribution to build this Spotify-Demo
 source:- https://medium.com/@elonrubin/ios-spotify-sdk-swift-3-0-tutorial-b629af4b889d
 2) Jared Davidson's tutorial for search in spotify.
 source :- https://github.com/Archetapp/Spotify-Search-using-Alamofire
-and 3) 
+and 3) Sethmr's fantastic library for spotify's play UI.
+source:- https://github.com/Sethmr/SpotifyInSwift
+
+Hope this tutorial and its source may use for beginner's.
