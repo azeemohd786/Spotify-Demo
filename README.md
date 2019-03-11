@@ -2,4 +2,12 @@
 Swift-Demo is based on how to make Spotify Integration for iOS with language Swift 4.2. This code is latest version in 2019. 
 The complete source code is having Spotify Integration + search options + default Spotify url and fetch current user's playlist and play in our native iOS App.
 
-Complted source code is meant for tutorial in youtube:- https://www.youtube.com/watch?v=KLsP7oThgHU&t=1s
+Completed source code is meant for tutorial in youtube:- https://www.youtube.com/watch?v=KLsP7oThgHU&t=1s
+
+This video is made with the help of stunning resource from other Tutor's.,
+May thank them for thier contribution to build this Spotify-Demo
+1) Elon rubin's basic and simple concept on integrate spotify via medium.com
+source:- https://medium.com/@elonrubin/ios-spotify-sdk-swift-3-0-tutorial-b629af4b889d
+2) Jared Davidson's tutorial for search in spotify.
+source :- https://github.com/Archetapp/Spotify-Search-using-Alamofire
+and 3) 
